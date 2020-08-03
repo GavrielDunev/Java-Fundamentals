@@ -1,2 +1,2 @@
-# SoftUni
+# SoftUni - Fundamentals
 Final exam preparation
