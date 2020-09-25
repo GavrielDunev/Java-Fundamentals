@@ -1,2 +1,2 @@
 # SoftUni - Java - Fundamentals
-Final exam preparation
+Topics and Exercises
